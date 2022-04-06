@@ -70,7 +70,7 @@ p {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
-  margin-bottom: -42%;
+  margin-bottom: -50%;
 }
 
 /* Features Section */
@@ -81,6 +81,7 @@ p {
   font-weight: 700; /* Bold */
   line-height: 2;
   margin: 10% 10% 6% 10%;
+  background-color: #fff;
 }
 
 .feature-box {
