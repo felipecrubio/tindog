@@ -143,3 +143,16 @@ p {
 .pricing-card-height {
   margin-bottom: 57px;
 }
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+  }
+}
